@@ -45,6 +45,10 @@ body {
     color: red;
 }
 
+.navbar a.active {
+    color: red !important;
+    border-bottom: 2px solid red;
+}
 
 .hero {
     height: 100vh;
